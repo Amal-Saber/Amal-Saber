@@ -41,8 +41,7 @@
 
 <p>
 
-  
-    <a href="https://github.com/Amal-Saber">
+<a href="https://github.com/Amal-Saber">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-Saber&theme=dark"> </a> 
 </p>
   
