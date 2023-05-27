@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-saber&label=Profile%20views&color=0e75b6&style=flat" alt="amal-saber" /> </p>
+
 
 - 🔭 I’m currently working as **a frelancer**
 
