@@ -1,7 +1,7 @@
 <img align="center" alt="coding" src="https://academy.vertabelo.com/blog/how-to-become-a-data-analyst/How-to-Become-a-Data-Analyst_hu5cf6d2fae9993b23146dfd2adc166044_197627_980x400_fill_box_center_2.png">
 
-<h1 align="center">Hi 👋, I'm Amal Saber <img src="./butterfly.gif" width=20%><img src="./dog.gif" width=20%> </h1>
-<h3 align="center">A Data Analyst from Egypt</h3>
+<h1 align="left">Hi 👋, I'm Amal Saber <img src="./butterfly.gif" width=20%><img src="./dog.gif" width=20%> </h1>
+<h3 align="left">A Data Analyst from Egypt</h3>
 
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
